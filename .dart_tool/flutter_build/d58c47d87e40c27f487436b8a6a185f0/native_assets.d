@@ -1,0 +1,1 @@
+ /Users/ekaterinaa/Developer/Learn/Frameworks/flutter/vibe-znak/.dart_tool/flutter_build/d58c47d87e40c27f487436b8a6a185f0/native_assets.yaml: 
